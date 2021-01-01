@@ -139,7 +139,7 @@ you may need to edit the `Makefile`.
 $ module load intel/2019.5
 $ module load gcc/8.2.0
 $ module load openblas
-$ module load intelmpi/intel/2019.5
+$ module load intelmpi/intel/2019.6
 ```
 {{< /tab >}}
 {{< tab "COSMA" >}}
